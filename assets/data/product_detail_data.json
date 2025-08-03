@@ -1,0 +1,81 @@
+{
+  "status": {
+    "meta": {
+      "code": "200",
+      "message": "Success load product detail"
+    }
+  },
+  "data": {
+    "product_detail": {
+      "id": "pd1-abcdefg",
+      "sku": "MBP-111-11111",
+      "product_type": "variant",
+      "brand_name": "3Second",
+      "name": "3Second - Regular Fit Basic Logo Script Ultra Absorb T Shirt Short Sleeve OL-C450723",
+      "category_name": "Fesyen",
+      "category_detail_name": "Pakaian",
+      "desc": "dapatkan kenyamanan abadi dengan kaos original 3second yang timeless ini, pilihan sempurna untuk menemani setiap       aktivitasmu. dibuat dari 100% katun berkualitas tinggi, kaos regular fit ini menawarkan kelembutan luar biasa dan daya serap keringat yang       optimal, membuatmu tetap nyaman ke mana pun pergi. tersedia dalam warna serbaguna off white (putih) dan jet black (hitam), kaos ini sangat mudah dipadukan dengan berbagai outer dan jenis celana, memastikan kamu selalu siap dan stylish menjalani hari. tersedia dalam ukuran s (lebar dada 52 cm, panjang badan 71 cm, panjang tangan 22cm), m (lebar dada 54 cm, panjang badan 73 cm, panjang tangan 23 cm), l (lebar dada 56 cm, panjang badan 75 cm, panjang tangan 24 cm), dan xl (lebar dada 58 cm, panjang badan 77 cm, panjang tangan 25 cm). harap diingat, ukuran bisa berbeda sekitar 1-3 cm dan warna produk mungkin sedikit berbeda karena pencahayaan foto atau tampilan gadget.",
+      "province_name": "",
+      "sold": 0,
+      "ingredients": "katun",
+      "selling_price": 222000,
+      "product_weight": 0.2,
+      "product_certification": "-",
+      "discount": 0
+    },
+    "product_variant": [
+      {
+        "id": "va1-abcdefg",
+        "product_id": "pd1-abcdefg",
+        "color_variant": "Hitam",
+        "size_variant": "S",
+        "selling_price": 140000,
+        "url": "https://asset-3s.3second.co.id/p/product/113052312HT_1.JPG?width=800",
+        "weight": 0.2,
+        "sku": "MBP-123-221-111",
+        "variant_name": "Hitam - S",
+        "discount": 0
+      },
+      {
+        "id": "va2-abcdefg",
+        "product_id": "pd1-abcdefg",
+        "color_variant": "Hitam",
+        "size_variant": "M",
+        "selling_price": 120000,
+        "url": "https://asset-3s.3second.co.id/p/product/156072312HT_1.JPG?width=800",
+        "weight": 0.4,
+        "sku": "MBP-123-456",
+        "variant_name": "Hitam - M",
+        "discount": 0
+      },
+      {
+        "id": "va3-abcdefg",
+        "product_id": "pd1-abcdefg",
+        "color_variant": "Merah",
+        "size_variant": "L",
+        "selling_price": 150000,
+        "url": "https://asset-3s.3second.co.id/p/product/K04012412MR_1.JPG?width=800",
+        "weight": 0.5,
+        "sku": "MBP-123-111",
+        "variant_name": "Merah - L",
+        "discount": 0
+      }
+    ],
+    "product_assets": [
+      {
+        "id": "as1-abcdefg",
+        "product_id": "pd1-abcdefg",
+        "type": "image",
+        "is_main_image": true,
+        "url": "https://asset-3s.3second.co.id/p/product/110032412HT_1.JPG?width=800"
+      },
+      {
+        "id": "as2-abcdefg",
+        "product_id": "pd1-abcdefg",
+        "type": "image",
+        "is_main_image": false,
+        "url": "https://asset-3s.3second.co.id/p/product/158032412KN_1.JPG?width=800"
+      }
+    ]
+  }
+}

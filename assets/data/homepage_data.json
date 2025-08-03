@@ -1,0 +1,83 @@
+{
+  "status": {
+    "meta": {
+      "code": "200",
+      "message": "Success load homepage"
+    }
+  },
+  "data": {
+    "banner": [
+      {
+        "id": "banner1-abcdefg",
+        "title": "Black Friday 70% Sale",
+        "url": "https://img.freepik.com/free-vector/horizontal-banner-template-black-friday-sales_23-2150867247.jpg",
+        "created_at": "2025-06-25T04:25:17.20779Z"
+      },
+      {
+        "id": "banner2-abcdefg",
+        "title": "Sale 50%",
+        "url": "https://static.vecteezy.com/system/resources/previews/017/128/530/non_2x/3d-sale-template-promo-banner-with-50-off-discount-special-offer-and-percentage-sign-vector.jpg",
+        "created_at": "2025-06-25T04:24:59.803816Z"
+      },
+      {
+        "id": "banner3-abcdefg",
+        "title": "Flash Sale",
+        "url": "https://www.shutterstock.com/image-vector/flash-sale-promotion-banner-25-600nw-2159885029.jpg",
+        "created_at": "2025-07-07T07:46:19.729195Z"
+      }
+    ],
+    "brand_asli_indonesia": [
+      {
+        "container_name": "Brand Asli Indonesia",
+        "container_background": "https://img.freepik.com/premium-vector/white-abstract-pattern-background-with-futuristic-modern-style-concept_7505-2300.jpg",
+        "brand_id": "b1-abcdefg",
+        "name": "Siap Saji",
+        "desc": "",
+        "category": "Siap Saji Ala Kaki Lima",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3EVTI1g8FvM2ay9GHkQHYmy8QaNVDQemLBg&s"
+      },
+      {
+        "container_background": "https://img.freepik.com/premium-vector/white-abstract-pattern-background-with-futuristic-modern-style-concept_7505-2300.jpg",
+        "brand_id": "b2-abcdefg",
+        "name": "ABC",
+        "desc": "",
+        "category": "Bumbu Dapur",
+        "image_url": "https://assets.tryandreview.com/uploads/images/brands/brand_logo_g95w34pdzs1w.jpg"
+      },
+      {
+        "container_background": "https://img.freepik.com/premium-vector/white-abstract-pattern-background-with-futuristic-modern-style-concept_7505-2300.jpg",
+        "brand_id": "b3-abcdefg",
+        "name": "Desaku",
+        "desc": "",
+        "category": "Bumbu Dapur",
+        "image_url": "https://cdn11.bigcommerce.com/s-5wf0xbtgyb/images/stencil/500x250/d/9e69b2e08abdff97e53ad085ef435caa_1710660772__51868.original.jpg"
+      },
+      {
+        "container_background": "https://img.freepik.com/premium-vector/white-abstract-pattern-background-with-futuristic-modern-style-concept_7505-2300.jpg",
+        "brand_id": "b4-abcdefg",
+        "name": "Hot In Cream",
+        "desc": "",
+        "category": "Kesehatan",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB59HVD76B_qm8zvlV-CdE8r-mpPlvU3qafw&s"
+      }
+    ],
+    "lagi_viral": [
+      {
+        "container_name": "Lagi Viral",
+        "container_background": "https://static.vecteezy.com/system/resources/previews/001/401/677/non_2x/abstract-polygonal-shape-black-background-free-vector.jpg",
+        "container_name": "Brand Asli Indonesia",
+        "container_name": "Brand Asli Indonesia",
+        "container_name": "Brand Asli Indonesia",
+        "product_id": "pd1-abcdefg",
+        "name": "3Second - Regular Fit Basic Logo Script Ultra Absorb T Shirt Short Sleeve OL-C450723",
+        "desc": "",
+        "type": "variant",
+        "category": "Fesyen",
+        "selling_price": 222000,
+        "brand_name": "3Second",
+        "weight": 0.2,
+        "image_url": "https://asset-3s.3second.co.id/p/product/113052312HT_1.JPG?width=800"
+      }
+    ]
+  }
+}
